@@ -70,7 +70,7 @@ Non-affiliate link: [Miao page on keeb.supply](https://keeb.supply/products/miao
 |      1 | 0603 Fuse | [C311055](https://www.lcsc.com/product-detail/_AEM-_C311055.html) | F1 | |
 |      1 | 0603 10kΩ Resistor | [C25804](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C25804.html) | R1 | |
 |      2 | 0603 5.1kΩ Resistor | [C23186](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C23186.html) | R4, R5 | |
-|      2 | 0603 100nF Capacitors | [C384773](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603X334K100CT_C384773.html) | C1, C2 | Take care, these need to be soldered in vertically, as indicated by the small dashes on the silkscreen! |
+|      2 | 0603 100nF Capacitors | [C1856507](https://www.lcsc.com/product-detail/C1856507.html) | C1, C2 | Take care, these need to be soldered in vertically, as indicated by the small dashes on the silkscreen! |
 |    [1] | [optional] 1kΩ Resistor | [C21190](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C21190.html) | R2 | on the backside |
 |    [2] | [optional] push buttons | [C115357](https://www.lcsc.com/product-detail/_ALPSALPINE-_C115357.html) | B, R | on the backside |
 |    [1] | [optional] LED | [C434442](https://www.lcsc.com/product-detail/_Yongyu-Photoelectric-_C434442.html) | D1 | on the backside |
